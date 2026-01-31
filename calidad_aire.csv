@@ -1,0 +1,44 @@
+﻿ciudad,pm25,no2;;
+Vitoria,8.31,3.69;;alava
+Alicante,9.0,0.5;;
+Almería,14.0,6.4;;
+Oviedo,5.0,9.2;;asturias
+Ávila,,0.5;;castilla y león
+Barcelona,34.0,20.2;;
+Burgos,9.0,1.0;;
+Cádiz,9.0,0.5;;
+Santander,,14.7;;cantabria
+Castellón,5.0,1.9;;
+Córdoba,10.0,7.8;;
+La Coruña,57.0,8.0;;
+Cuenca,151.0,130.2;;
+Gerona,30.0,16.5;;girona
+Granada,6.0,6.4;;
+Guadalajara,,;;
+San Sebastián,21.0,27.0;;guipúzcoa
+Huelva,29.0,0.5;;
+Palma de Mallorca,55.0,3.2;;
+Jaén,13.0,4.6;;
+León,13.0,10.6;;
+Lérida,42.0,15.1;;lleida
+Lugo,13.0,3.7;;
+Madrid,55.0,12.8;;
+Málaga,29.0,17.0;;
+Murcia,12.0,10.3;;
+Pamplona,30.0,32.0;;navarra
+Orense,68.0,12.2;;
+Palencia,34.0,2.3;;
+Las Palmas de Gran Canaria,25.0,2.8;;
+Pontevedra,5.0,9.3;;
+Salamanca,,5.5;;
+Segovia,,8.3;;
+Sevilla,25.0,7.4;;
+Soria,5.0,8.7;;
+Tarragona,55.0,28.8;;
+Santa Cruz de Tenerife,25.0,3.2;;
+Toledo,60.0,;;
+Valencia,13.0,4.2;;
+Valladolid,13.0,13.3;;
+Bilbao,13.0,13.3;;vizcaya
+Zamora,,5.5;;
+Zaragoza,32.0,16.8;;
